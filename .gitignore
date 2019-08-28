@@ -1,0 +1,11 @@
+*Temp
+*Library
+*DS_Store
+.idea
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+obj
+Logs
+*.DotSettings.user
